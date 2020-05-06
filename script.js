@@ -39,7 +39,7 @@
 
   // Setup stream and play
   player.setAutoplay(true);
-  player.load(  "https://d7b6438397fc.us-west-2.playback.live-video.net/api/video/v1/aws.ivs.us-west-2.592423023374.channel.BYrTZEq4UiqS.m3u8"
+  player.load(  "https://d7b6438397fc.us-west-2.playback.live-video.net/api/video/v1/aws.ivs.us-west-2.592423023374.channel.BhYpNiqtxalR.m3u8"
   );
 
   // Mute the stream
